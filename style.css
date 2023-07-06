@@ -1,0 +1,10 @@
+.color-box {
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+h1 {
+  text-align: center;
+}
